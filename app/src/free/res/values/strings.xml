@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildItBigger</string>
+    <string name="fragmentmain_button_getajoke">Get a Joke!</string>
+</resources>

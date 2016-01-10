@@ -24,12 +24,12 @@
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/fragment_joke.xml",
@@ -56,12 +56,12 @@
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
-        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
+        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml",
@@ -116,32 +116,32 @@
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/auad/Project/BuildItBigger/jokeandroidlib/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines.xml",

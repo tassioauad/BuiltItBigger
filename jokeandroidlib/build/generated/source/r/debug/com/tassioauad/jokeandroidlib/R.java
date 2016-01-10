@@ -1628,7 +1628,7 @@ containing a value of this type.
         public static int end_padder=0x7f0b005e;
         public static int expand_activities_button=0x7f0b0025;
         public static int expanded_menu=0x7f0b0038;
-        public static int fragment_joke=0x7f0b0050;
+        public static int framelayout_joke=0x7f0b0050;
         public static int home=0x7f0b0004;
         public static int homeAsUp=0x7f0b000d;
         public static int icon=0x7f0b0029;
